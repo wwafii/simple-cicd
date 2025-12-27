@@ -1,3 +1,3 @@
-module github.com/girikuncoro/belajar-cicd-pemula
+module simple-cicd
 
-go 1.17
+go 1.22
